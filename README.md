@@ -1735,6 +1735,7 @@ _Related: [Web Servers](#web-servers)_
 - [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](https://code.launchpad.net/squid)) `GPL-2.0` `C/deb`
 - [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C/deb`
 - [txtdot](https://tempoworks.github.io/documentation) - A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ([Demo](https://txt.dc09.ru), [Source Code](https://github.com/TempoWorks/txtdot)) `MIT` `Nodejs/Docker`
+- [Xray VPN OneClick](https://github.com/DanOps-1/Xray-VPN-OneClick) - One-click deployment tool for Xray proxy server with VLESS+Reality protocol, featuring traffic quota management and interactive CLI. ([Source Code](https://github.com/DanOps-1/Xray-VPN-OneClick)) `MIT` `TypeScript/Nodejs/Shell`
 
 
 ### Recipe Management
